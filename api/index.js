@@ -32,4 +32,4 @@ server.listen(PORT, () => {
     connectDB();
 })    
 
- 
+ export default app;
